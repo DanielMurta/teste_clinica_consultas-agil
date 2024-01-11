@@ -1,4 +1,4 @@
-##CLÍNICA DE CONSULTAS ÁGIL - DOCUMENTAÇÃO
+## CLÍNICA DE CONSULTAS ÁGIL - DOCUMENTAÇÃO
 
 Este é um sistema de agendamento simples implementado em Python. O código é organizado em funções e possui apenas dois arquivos: main.py e defs.py. O "main.py" é o programa principal. O arquivo contém um loop infinito que possuiu toda a estruturação de funções do programa. Já "defs.py" é o arquivo que possui todas as funções que dão a lógica de funcionamento ao programa.
 
